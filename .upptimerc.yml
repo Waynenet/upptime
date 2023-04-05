@@ -1,22 +1,43 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
+owner: Waynenet # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: 4K鸭奈飞
+    url: https://azx.me
+  - name: 大师兄影视
+    url: https://dsxys.pro
+  - name: 555电影
+    url: https://www.5ying.fun
+  - name: 低端影视
+    url: https://ddys.tv
+  - name: COKEMV影视
+    url: https://cokemv.me
+  - name: MK影视
+    url: https://www.mkvdo.com
+  - name: NO视频
+    url: https://www.novipnoad.com
+  - name: 完美看看
+    url: https://www.wanmeikk.film
+  - name: 瓜皮TV
+    url: https://guapitv.top
+  - name: 31看影视
+    url: http://www.31kan.com
+  - name: Auete影视
+    url: https://auete.com
+  - name: 大米星球
+    url: https://www.dmxq.fun
+  - name: 去看吧
+    url: https://www.qkan8.com
+  - name: bangumi
+    url: https://bangumi.online
+  - name: 美剧行星
+    url: https://www.nfyingshi.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
