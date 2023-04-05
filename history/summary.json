@@ -28,13 +28,13 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 1000,
-    "timeDay": 1000,
-    "timeWeek": 1000,
-    "timeMonth": 1000,
-    "timeYear": 1000,
+    "time": 1023,
+    "timeDay": 1023,
+    "timeWeek": 1023,
+    "timeMonth": 1023,
+    "timeYear": 1023,
     "dailyMinutesDown": {
-      "2023-04-05": 34
+      "2023-04-05": 47
     }
   },
   {
@@ -66,13 +66,13 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 1000,
-    "timeDay": 1000,
-    "timeWeek": 1000,
-    "timeMonth": 1000,
-    "timeYear": 1000,
+    "time": 1023,
+    "timeDay": 1023,
+    "timeWeek": 1023,
+    "timeMonth": 1023,
+    "timeYear": 1023,
     "dailyMinutesDown": {
-      "2023-04-05": 34
+      "2023-04-05": 47
     }
   },
   {
@@ -117,18 +117,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.novipnoad.com.ico",
     "slug": "no",
     "status": "down",
-    "uptime": "0.06%",
-    "uptimeDay": "0.06%",
-    "uptimeWeek": "0.06%",
-    "uptimeMonth": "0.06%",
-    "uptimeYear": "0.06%",
+    "uptime": "0.38%",
+    "uptimeDay": "0.38%",
+    "uptimeWeek": "0.38%",
+    "uptimeMonth": "0.38%",
+    "uptimeYear": "0.38%",
     "time": 69,
     "timeDay": 69,
     "timeWeek": 69,
     "timeMonth": 69,
     "timeYear": 69,
     "dailyMinutesDown": {
-      "2023-04-05": 17
+      "2023-04-05": 30
     }
   },
   {
@@ -142,13 +142,13 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 1000,
-    "timeDay": 1000,
-    "timeWeek": 1000,
-    "timeMonth": 1000,
-    "timeYear": 1000,
+    "time": 1023,
+    "timeDay": 1023,
+    "timeWeek": 1023,
+    "timeMonth": 1023,
+    "timeYear": 1023,
     "dailyMinutesDown": {
-      "2023-04-05": 34
+      "2023-04-05": 47
     }
   },
   {
@@ -157,11 +157,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/guapitv.top.ico",
     "slug": "tv",
     "status": "down",
-    "uptime": "0.76%",
-    "uptimeDay": "0.76%",
-    "uptimeWeek": "0.76%",
-    "uptimeMonth": "0.76%",
-    "uptimeYear": "0.76%",
+    "uptime": "45.48%",
+    "uptimeDay": "45.48%",
+    "uptimeWeek": "45.48%",
+    "uptimeMonth": "45.48%",
+    "uptimeYear": "45.48%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -218,13 +218,13 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 1000,
-    "timeDay": 1000,
-    "timeWeek": 1000,
-    "timeMonth": 1000,
-    "timeYear": 1000,
+    "time": 1023,
+    "timeDay": 1023,
+    "timeWeek": 1023,
+    "timeMonth": 1023,
+    "timeYear": 1023,
     "dailyMinutesDown": {
-      "2023-04-05": 34
+      "2023-04-05": 47
     }
   },
   {
@@ -238,13 +238,13 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 1000,
-    "timeDay": 1000,
-    "timeWeek": 1000,
-    "timeMonth": 1000,
-    "timeYear": 1000,
+    "time": 1023,
+    "timeDay": 1023,
+    "timeWeek": 1023,
+    "timeMonth": 1023,
+    "timeYear": 1023,
     "dailyMinutesDown": {
-      "2023-04-05": 34
+      "2023-04-05": 47
     }
   },
   {
@@ -276,13 +276,13 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 1000,
-    "timeDay": 1000,
-    "timeWeek": 1000,
-    "timeMonth": 1000,
-    "timeYear": 1000,
+    "time": 1023,
+    "timeDay": 1023,
+    "timeWeek": 1023,
+    "timeMonth": 1023,
+    "timeYear": 1023,
     "dailyMinutesDown": {
-      "2023-04-05": 34
+      "2023-04-05": 47
     }
   }
 ]
