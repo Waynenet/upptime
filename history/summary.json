@@ -29,11 +29,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
     "time": 741,
-    "timeDay": 532,
+    "timeDay": 542,
     "timeWeek": 402,
-    "timeMonth": 547,
+    "timeMonth": 545,
     "timeYear": 741,
     "dailyMinutesDown": {
+      "2023-05-28": 0,
       "2023-04-18": 119,
       "2023-04-05": 47
     }
@@ -68,11 +69,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
     "time": 741,
-    "timeDay": 532,
+    "timeDay": 542,
     "timeWeek": 402,
-    "timeMonth": 547,
+    "timeMonth": 545,
     "timeYear": 741,
     "dailyMinutesDown": {
+      "2023-05-28": 0,
       "2023-04-18": 119,
       "2023-04-05": 47
     }
@@ -145,11 +147,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
     "time": 741,
-    "timeDay": 532,
+    "timeDay": 542,
     "timeWeek": 402,
-    "timeMonth": 547,
+    "timeMonth": 545,
     "timeYear": 741,
     "dailyMinutesDown": {
+      "2023-05-28": 0,
       "2023-04-18": 119,
       "2023-04-05": 47
     }
@@ -197,7 +200,7 @@
     "url": "https://auete.com",
     "icon": "https://icons.duckduckgo.com/ip3/auete.com.ico",
     "slug": "auete",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -208,7 +211,9 @@
     "timeWeek": 721,
     "timeMonth": 747,
     "timeYear": 725,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-28": 0
+    }
   },
   {
     "name": "大米星球",
@@ -222,11 +227,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
     "time": 741,
-    "timeDay": 546,
+    "timeDay": 542,
     "timeWeek": 402,
-    "timeMonth": 547,
+    "timeMonth": 545,
     "timeYear": 741,
     "dailyMinutesDown": {
+      "2023-05-28": 0,
       "2023-04-18": 119,
       "2023-04-05": 47
     }
@@ -243,11 +249,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
     "time": 741,
-    "timeDay": 546,
+    "timeDay": 542,
     "timeWeek": 402,
-    "timeMonth": 547,
+    "timeMonth": 545,
     "timeYear": 741,
     "dailyMinutesDown": {
+      "2023-05-28": 0,
       "2023-04-18": 119,
       "2023-04-05": 47
     }
@@ -284,11 +291,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
     "time": 741,
-    "timeDay": 546,
+    "timeDay": 542,
     "timeWeek": 402,
-    "timeMonth": 547,
+    "timeMonth": 545,
     "timeYear": 741,
     "dailyMinutesDown": {
+      "2023-05-28": 0,
       "2023-04-18": 119,
       "2023-04-05": 47
     }
@@ -305,11 +313,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
     "time": 741,
-    "timeDay": 536,
+    "timeDay": 542,
     "timeWeek": 402,
-    "timeMonth": 547,
+    "timeMonth": 545,
     "timeYear": 741,
     "dailyMinutesDown": {
+      "2023-05-28": 0,
       "2023-04-18": 119,
       "2023-04-05": 47
     }
