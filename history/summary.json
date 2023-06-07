@@ -24,16 +24,17 @@
     "slug": "",
     "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
     "time": 709,
-    "timeDay": 846,
-    "timeWeek": 584,
-    "timeMonth": 456,
+    "timeDay": 664,
+    "timeWeek": 583,
+    "timeMonth": 455,
     "timeYear": 709,
     "dailyMinutesDown": {
+      "2023-06-07": 0,
       "2023-04-18": 119,
       "2023-04-05": 47
     }
@@ -63,16 +64,17 @@
     "slug": "",
     "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
     "time": 709,
-    "timeDay": 846,
-    "timeWeek": 584,
-    "timeMonth": 456,
+    "timeDay": 664,
+    "timeWeek": 583,
+    "timeMonth": 455,
     "timeYear": 709,
     "dailyMinutesDown": {
+      "2023-06-07": 0,
       "2023-04-18": 119,
       "2023-04-05": 47
     }
@@ -82,9 +84,9 @@
     "url": "https://cokemv.me",
     "icon": "https://icons.duckduckgo.com/ip3/cokemv.me.ico",
     "slug": "cokemv",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -93,7 +95,9 @@
     "timeWeek": 871,
     "timeMonth": 912,
     "timeYear": 836,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-07": 0
+    }
   },
   {
     "name": "MK影视",
@@ -140,16 +144,17 @@
     "slug": "",
     "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
     "time": 709,
-    "timeDay": 689,
-    "timeWeek": 584,
-    "timeMonth": 456,
+    "timeDay": 664,
+    "timeWeek": 583,
+    "timeMonth": 455,
     "timeYear": 709,
     "dailyMinutesDown": {
+      "2023-06-07": 0,
       "2023-04-18": 119,
       "2023-04-05": 47
     }
@@ -179,16 +184,17 @@
     "slug": "",
     "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
     "time": 709,
-    "timeDay": 689,
-    "timeWeek": 584,
-    "timeMonth": 456,
+    "timeDay": 664,
+    "timeWeek": 583,
+    "timeMonth": 455,
     "timeYear": 709,
     "dailyMinutesDown": {
+      "2023-06-07": 0,
       "2023-04-18": 119,
       "2023-04-05": 47
     }
@@ -200,16 +206,17 @@
     "slug": "",
     "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
     "time": 709,
-    "timeDay": 689,
-    "timeWeek": 584,
-    "timeMonth": 456,
+    "timeDay": 664,
+    "timeWeek": 583,
+    "timeMonth": 455,
     "timeYear": 709,
     "dailyMinutesDown": {
+      "2023-06-07": 0,
       "2023-04-18": 119,
       "2023-04-05": 47
     }
@@ -241,16 +248,17 @@
     "slug": "",
     "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
     "time": 709,
-    "timeDay": 689,
-    "timeWeek": 584,
-    "timeMonth": 456,
+    "timeDay": 664,
+    "timeWeek": 583,
+    "timeMonth": 455,
     "timeYear": 709,
     "dailyMinutesDown": {
+      "2023-06-07": 0,
       "2023-04-18": 119,
       "2023-04-05": 47
     }
@@ -262,16 +270,17 @@
     "slug": "",
     "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
     "time": 709,
-    "timeDay": 689,
-    "timeWeek": 584,
-    "timeMonth": 456,
+    "timeDay": 675,
+    "timeWeek": 583,
+    "timeMonth": 455,
     "timeYear": 709,
     "dailyMinutesDown": {
+      "2023-06-07": 0,
       "2023-04-18": 119,
       "2023-04-05": 47
     }
