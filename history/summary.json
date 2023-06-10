@@ -29,11 +29,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
     "time": 706,
-    "timeDay": 627,
-    "timeWeek": 669,
+    "timeDay": 624,
+    "timeWeek": 671,
     "timeMonth": 463,
     "timeYear": 706,
     "dailyMinutesDown": {
+      "2023-06-10": 0,
       "2023-04-18": 119,
       "2023-04-05": 47
     }
@@ -69,10 +70,11 @@
     "uptimeYear": "99.83%",
     "time": 706,
     "timeDay": 624,
-    "timeWeek": 669,
+    "timeWeek": 671,
     "timeMonth": 463,
     "timeYear": 706,
     "dailyMinutesDown": {
+      "2023-06-10": 0,
       "2023-04-18": 119,
       "2023-04-05": 47
     }
@@ -146,10 +148,11 @@
     "uptimeYear": "99.83%",
     "time": 706,
     "timeDay": 624,
-    "timeWeek": 670,
-    "timeMonth": 463,
+    "timeWeek": 671,
+    "timeMonth": 464,
     "timeYear": 706,
     "dailyMinutesDown": {
+      "2023-06-10": 0,
       "2023-04-18": 119,
       "2023-04-05": 47
     }
@@ -159,7 +162,7 @@
     "url": "https://auete.com",
     "icon": "https://icons.duckduckgo.com/ip3/auete.com.ico",
     "slug": "auete",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -170,7 +173,9 @@
     "timeWeek": 719,
     "timeMonth": 747,
     "timeYear": 738,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-10": 0
+    }
   },
   {
     "name": "大米星球",
@@ -185,10 +190,11 @@
     "uptimeYear": "99.83%",
     "time": 706,
     "timeDay": 624,
-    "timeWeek": 670,
-    "timeMonth": 463,
+    "timeWeek": 671,
+    "timeMonth": 464,
     "timeYear": 706,
     "dailyMinutesDown": {
+      "2023-06-10": 0,
       "2023-04-18": 119,
       "2023-04-05": 47
     }
@@ -206,10 +212,11 @@
     "uptimeYear": "99.83%",
     "time": 706,
     "timeDay": 624,
-    "timeWeek": 670,
-    "timeMonth": 463,
+    "timeWeek": 671,
+    "timeMonth": 464,
     "timeYear": 706,
     "dailyMinutesDown": {
+      "2023-06-10": 0,
       "2023-04-18": 119,
       "2023-04-05": 47
     }
@@ -247,10 +254,11 @@
     "uptimeYear": "99.83%",
     "time": 706,
     "timeDay": 624,
-    "timeWeek": 670,
+    "timeWeek": 671,
     "timeMonth": 463,
     "timeYear": 706,
     "dailyMinutesDown": {
+      "2023-06-10": 0,
       "2023-04-18": 119,
       "2023-04-05": 47
     }
@@ -268,10 +276,11 @@
     "uptimeYear": "99.83%",
     "time": 706,
     "timeDay": 624,
-    "timeWeek": 670,
+    "timeWeek": 671,
     "timeMonth": 463,
     "timeYear": 706,
     "dailyMinutesDown": {
+      "2023-06-10": 0,
       "2023-04-18": 119,
       "2023-04-05": 47
     }
