@@ -11,13 +11,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 476,
-    "timeDay": 513,
-    "timeWeek": 525,
+    "timeDay": 538,
+    "timeWeek": 527,
     "timeMonth": 538,
     "timeYear": 473,
-    "dailyMinutesDown": {
-      "2023-07-24": 118
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "555电影",
@@ -50,12 +48,10 @@
     "uptimeYear": "99.98%",
     "time": 476,
     "timeDay": 538,
-    "timeWeek": 525,
+    "timeWeek": 527,
     "timeMonth": 538,
     "timeYear": 473,
-    "dailyMinutesDown": {
-      "2023-07-24": 118
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "COKEMV影视",
@@ -70,7 +66,7 @@
     "uptimeYear": "100.00%",
     "time": 493,
     "timeDay": 171,
-    "timeWeek": 156,
+    "timeWeek": 141,
     "timeMonth": 148,
     "timeYear": 385,
     "dailyMinutesDown": {}
@@ -88,7 +84,7 @@
     "uptimeYear": "100.00%",
     "time": 632,
     "timeDay": 643,
-    "timeWeek": 749,
+    "timeWeek": 758,
     "timeMonth": 705,
     "timeYear": 681,
     "dailyMinutesDown": {}
@@ -106,7 +102,7 @@
     "uptimeYear": "100.00%",
     "time": 562,
     "timeDay": 722,
-    "timeWeek": 575,
+    "timeWeek": 587,
     "timeMonth": 629,
     "timeYear": 667,
     "dailyMinutesDown": {}
@@ -124,12 +120,10 @@
     "uptimeYear": "99.98%",
     "time": 476,
     "timeDay": 538,
-    "timeWeek": 525,
+    "timeWeek": 527,
     "timeMonth": 538,
     "timeYear": 473,
-    "dailyMinutesDown": {
-      "2023-07-24": 118
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Auete影视",
@@ -165,9 +159,7 @@
     "timeWeek": 527,
     "timeMonth": 538,
     "timeYear": 473,
-    "dailyMinutesDown": {
-      "2023-07-24": 118
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "去看吧",
@@ -185,9 +177,7 @@
     "timeWeek": 527,
     "timeMonth": 538,
     "timeYear": 473,
-    "dailyMinutesDown": {
-      "2023-07-24": 118
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "bangumi",
@@ -205,9 +195,7 @@
     "timeWeek": 128,
     "timeMonth": 108,
     "timeYear": 432,
-    "dailyMinutesDown": {
-      "2023-07-24": 118
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "美剧行星",
@@ -225,9 +213,7 @@
     "timeWeek": 527,
     "timeMonth": 538,
     "timeYear": 473,
-    "dailyMinutesDown": {
-      "2023-07-24": 118
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "天空影视",
@@ -245,8 +231,6 @@
     "timeWeek": 527,
     "timeMonth": 538,
     "timeYear": 473,
-    "dailyMinutesDown": {
-      "2023-07-24": 118
-    }
+    "dailyMinutesDown": {}
   }
 ]
