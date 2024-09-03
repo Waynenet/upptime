@@ -6,34 +6,38 @@
     "slug": "",
     "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 479,
-    "timeDay": 937,
-    "timeWeek": 758,
-    "timeMonth": 597,
+    "time": 480,
+    "timeDay": 873,
+    "timeWeek": 762,
+    "timeMonth": 598,
     "timeYear": 481,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-03": 0
+    }
   },
   {
     "name": "555电影",
     "url": "https://www.5ying.fun",
     "icon": "https://icons.duckduckgo.com/ip3/www.5ying.fun.ico",
     "slug": "555",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 922,
+    "time": 923,
     "timeDay": 2948,
     "timeWeek": 2660,
     "timeMonth": 2660,
     "timeYear": 749,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-03": 0
+    }
   },
   {
     "name": "低端影视",
@@ -42,16 +46,18 @@
     "slug": "",
     "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 479,
-    "timeDay": 944,
-    "timeWeek": 758,
-    "timeMonth": 597,
+    "time": 480,
+    "timeDay": 873,
+    "timeWeek": 762,
+    "timeMonth": 598,
     "timeYear": 481,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-03": 0
+    }
   },
   {
     "name": "COKEMV影视",
@@ -114,16 +120,18 @@
     "slug": "",
     "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 479,
-    "timeDay": 930,
-    "timeWeek": 758,
-    "timeMonth": 597,
+    "time": 480,
+    "timeDay": 873,
+    "timeWeek": 762,
+    "timeMonth": 598,
     "timeYear": 481,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-03": 0
+    }
   },
   {
     "name": "Auete影视",
@@ -150,16 +158,18 @@
     "slug": "",
     "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 479,
-    "timeDay": 930,
-    "timeWeek": 758,
-    "timeMonth": 597,
+    "time": 480,
+    "timeDay": 873,
+    "timeWeek": 762,
+    "timeMonth": 598,
     "timeYear": 481,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-03": 0
+    }
   },
   {
     "name": "去看吧",
@@ -168,16 +178,18 @@
     "slug": "",
     "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 479,
-    "timeDay": 930,
-    "timeWeek": 758,
-    "timeMonth": 597,
+    "time": 480,
+    "timeDay": 873,
+    "timeWeek": 762,
+    "timeMonth": 598,
     "timeYear": 481,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-03": 0
+    }
   },
   {
     "name": "bangumi",
@@ -204,16 +216,18 @@
     "slug": "",
     "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 479,
-    "timeDay": 930,
-    "timeWeek": 758,
-    "timeMonth": 597,
+    "time": 480,
+    "timeDay": 873,
+    "timeWeek": 762,
+    "timeMonth": 598,
     "timeYear": 481,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-03": 0
+    }
   },
   {
     "name": "天空影视",
@@ -222,15 +236,17 @@
     "slug": "",
     "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 479,
-    "timeDay": 930,
-    "timeWeek": 758,
-    "timeMonth": 597,
+    "time": 480,
+    "timeDay": 873,
+    "timeWeek": 762,
+    "timeMonth": 598,
     "timeYear": 481,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-03": 0
+    }
   }
 ]
